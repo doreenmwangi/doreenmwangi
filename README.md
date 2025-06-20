@@ -4,7 +4,7 @@
 I'm a tech enthusiast with a passion for machine learning, data science, and database systems. I enjoy working on data-driven projects that uncover insights and drive decision-making.
 Currently, I'm expanding my skills in advanced machine learning models and deep learning, with a growing interest in real-world applications across healthcare, finance, and more.
 I enjoy building clean, interpretable models, exploring data pipelines, and understanding how different technologies work together to solve complex problems.
-Outside of coding, I'm always curious—whether it’s reading up on new AI research or experimenting with datasets to sharpen my skills.
+Outside of coding, I'm always curious whether it’s reading up on new AI research or experimenting with datasets to sharpen my skills.
 
 ## 📊 Skills
 - Languages: Python, SQL, R, HTML, C++, C
@@ -13,7 +13,7 @@ Outside of coding, I'm always curious—whether it’s reading up on new AI rese
 - Tools: Git
 
 ## 🧠 Projects
-- **Machine Learning - Diabetes Prediction** – This project aimed to predict Type 2 diabetes in Pima Indian women using a dataset of 768 patients and eight clinical variables. After handling missing values and scaling features, multiple models were tested, including Logistic Regression and Support Vector Machines. A calibrated Random Forest classifier was ultimately selected for its strong performance, achieving a recall of 0.889—critical for minimizing missed diagnoses—along with a robust ROC-AUC score of 0.832. Key features like glucose, BMI, and age aligned with known diabetes risk factors, reinforcing the model’s clinical relevance.
+- **Machine Learning - Diabetes Prediction** – This project aimed to predict Type 2 diabetes in Pima Indian women using a dataset of 768 patients and eight clinical variables. After handling missing values and scaling features, multiple models were tested, including Logistic Regression and Support Vector Machines. A calibrated Random Forest classifier was ultimately selected for its strong performance, achieving a recall of 0.889, critical for minimizing missed diagnoses, along with a robust ROC-AUC score of 0.832. Key features like glucose, BMI, and age aligned with known diabetes risk factors, reinforcing the model’s clinical relevance.
  
 - **Advanced Statistics - Classification & Clustering Analysis** – This project explored a multi-class classification problem using a 3,000-sample dataset with 20 continuous features. After thorough data cleaning (imputation, outlier removal, correlation checks), a multinomial logistic regression model achieved 85% accuracy. Principal Component Analysis (PCA) was applied to reduce dimensionality and visualize feature variance, while K-Means clustering (k=3) uncovered natural groupings aligned with PCA results. The analysis demonstrated how combining supervised and unsupervised learning can improve interpretability and reveal deeper structure in complex datasets.
 
