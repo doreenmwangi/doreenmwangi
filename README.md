@@ -19,6 +19,8 @@ Outside of coding, I'm always curious—whether it’s reading up on new AI rese
 
 - **Database Systems** – This project explored the design and implementation of both relational and NoSQL databases using a real-world air pollution dataset. A normalized ER model was created and forward-engineered into MySQL, followed by data cleaning and importing using Python and phpMyAdmin. SQL queries were written to analyze pollution levels, while XML and BaseX were used to model and query hierarchical data. The project highlighted the strengths of relational databases for data integrity and NoSQL for flexible, semi-structured data, offering hands-on experience in both paradigms.
 
+- **COVID-19 Tracking System ** – This project involved designing and developing a web-based COVID-19 pandemic tracking system tailored for healthcare organizations. Built using JavaScript and React, the system visualizes global case data—confirmed, recovered, and deaths—through interactive maps, graphs, and tables. It enables users to view country-specific data and trends, helping governments and health institutions make informed decisions and manage resources effectively. The system prioritizes usability, scalability, and real-time accessibility, offering a valuable digital tool for epidemic monitoring and response.
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/doreen-mwangi/)
 
